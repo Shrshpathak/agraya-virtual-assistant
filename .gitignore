@@ -1,0 +1,8 @@
+venv/
+venv311/
+.env
+__pycache__/
+.streamlit/secrets.toml
+data/agraya_vectorstore/
+
+data/vectorstore/
